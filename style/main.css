@@ -28,6 +28,8 @@
 }
 
 body {
+    font-family: monospace;
+    text-align: center;
     background-color: var(--base);
     color: var(--text);
 }
