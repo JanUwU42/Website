@@ -60,10 +60,6 @@ p {
     color: var(--text);
 }
 
-.socialButton:hover {
-    box-shadow: 0 20px 20px var(--mauve);
-}
-
 hr {
     color: var(--lavender);
 }
