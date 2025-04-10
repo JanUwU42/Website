@@ -45,4 +45,36 @@ h1 {
 a {
     text-decoration: none;
     color: inherit;
+    color: var(--teal);
+}
+
+#IntroductionHeading {
+    color: var(--pink);
+}
+
+p {
+    font-size: 150%;
+    margin-left: 5em;
+    margin-right: 5em;
+    text-align: justify;
+    color: var(--text);
+}
+
+.socialButton:hover {
+    box-shadow: 0 20px 20px var(--mauve);
+}
+
+hr {
+    color: var(--lavender);
+}
+
+.btn-88x31 {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+#visit-ctp {
+    text-align: center;
+    font-size: 120%;
+    color: var(--flamingo);
 }
