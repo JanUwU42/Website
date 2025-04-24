@@ -1,1 +1,0 @@
-// TODO: Add code to swap the catppuccin theme
